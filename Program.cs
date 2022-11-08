@@ -61,6 +61,7 @@ namespace CSharp
             Console.WriteLine("NAMESPACES:");
             Console.WriteLine(classe.GetType());
             Console.WriteLine(classe2.GetType());
+            Console.WriteLine("");
 
         }
     }
